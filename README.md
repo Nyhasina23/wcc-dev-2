@@ -1,4 +1,4 @@
-# ##techzara_wcc2
+# #techzara_wcc2
 # API DOCUMENTATION
 
 ## signup
